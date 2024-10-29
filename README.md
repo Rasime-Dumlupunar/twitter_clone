@@ -26,4 +26,6 @@ This project is a Twitter clone developed using React. Users can log in with the
 - **React Icons**: Used to add icons to the project.
 - **React Router DOM**: Handles routing within the application.
 - **React Toastify**: Displays notifications to users.
-- **UUID**: Generates unique identifiers.# twitter_clone
+- **UUID**: Generates unique identifiers.
+
+![]()
