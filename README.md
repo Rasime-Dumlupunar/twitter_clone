@@ -28,4 +28,4 @@ This project is a Twitter clone developed using React. Users can log in with the
 - **React Toastify**: Displays notifications to users.
 - **UUID**: Generates unique identifiers.
 
-![]()
+![](https://github.com/Rasime-Dumlupunar/twitter_clone/blob/main/twitter_clone.gif)
